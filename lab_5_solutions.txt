@@ -1,0 +1,26 @@
+Jason R Evarts
+Lab 5
+
+1.  background-color: red
+    use #div1 {}
+
+2.  The margin changes the amount of space around the element from the other elements
+    Padding changes the space between the outside of the element and the interior elements
+
+3.  If the margin is greater than 100px it pushes the paragraph element outside the original element and the background is hidden.
+    If the padding is greater than 100px, it makes the paragraph element bigger.
+4.  The overflow scroll option adds scroll bars to access the internal elements that are bigger than the top level element
+    Hidden is an option that hides the parts bigger than the original element.
+
+5.  Float left start the elements on the left and puts them beside each other.
+    Float right starts the elements on the right and put them beside each other.
+6.  As float: left is added,the elements are moved to the left of the screen and lined up in order.
+    the clear: right didn't do anything as it was added...
+
+7.  div1 has float: left
+    div2 has float: left
+    div3 has clear: left
+
+8.  Changing the body margin to 0 pulls all the elements to the edge of the browser window.  There is clearly some default margin for the body.
+
+

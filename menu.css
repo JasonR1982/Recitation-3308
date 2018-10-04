@@ -1,0 +1,27 @@
+#menudiv {
+    width: 20%;
+    border: 2px dashed black;
+    position: fixed;
+    left: 5px;
+}
+
+#menuitem {
+    margin-right: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 10px;
+    border: 2px solid black;
+   
+}
+
+#menuitem p {
+    padding: 0;
+}
+#info {
+    position: relative;
+    left: 25%;
+    border: 2px dashed black;
+    width: 75%;
+}
+
+

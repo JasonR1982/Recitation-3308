@@ -1,0 +1,26 @@
+/* the css rules for boxes.html */
+
+body {
+    margin: 0px
+}
+
+div {
+    border: 2px solid black;
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+}
+#div1 {
+    background-color: red;
+    overflow:hidden ;
+    float: left;
+}
+
+#div2 {
+    float: left;
+}
+
+#div3 {
+    clear: left;
+}
+
